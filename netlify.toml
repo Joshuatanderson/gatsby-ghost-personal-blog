@@ -1,4 +1,3 @@
-/content/*  159.203.82.101  200
 
 [build]
   command = "gatsby build"
