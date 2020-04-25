@@ -1,10 +1,10 @@
 {
 	"development": {
-		"apiUrl": "https://joshuaa.dev",
+		"apiUrl": "https://contnet.joshuaa.dev",
 		"contentApiKey": "f7531408371d649423d38da5ba"
 	},
 	"production": {
-		"apiUrl": "https://joshuaa.dev",
+		"apiUrl": "https://content.joshuaa.dev",
 		"contentApiKey": "f7531408371d649423d38da5ba"
 	}
 }
