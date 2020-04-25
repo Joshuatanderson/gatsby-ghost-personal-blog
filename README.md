@@ -81,7 +81,7 @@ Additional features can be integrated by installing Gatsby themes or plugins. Th
     ```bash
     gatsby develop
     ```
-    and visit your site at `http://localhost:8000`.
+    and visit your site at `joshuaa.dev`.
 
 ## Configure
 
@@ -124,12 +124,12 @@ All content is sourced from a Ghost CMS. If you don't customize the file `.ghost
 
     {
         "development": {
-            "apiUrl": "http://localhost:2368",
-            "contentApiKey": "9fccdb0e4ea5b572e2e5b92942"
+            "apiUrl": "https://joshuaa.dev",
+            "contentApiKey": "f7531408371d649423d38da5ba"
         },
         "production": {
-            "apiUrl": "http://localhost:2368",
-            "contentApiKey": "9fccdb0e4ea5b572e2e5b92942"
+            "apiUrl": "https://joshuaa.dev",
+            "contentApiKey": "f7531408371d649423d38da5ba"
         }
     }
 ```
