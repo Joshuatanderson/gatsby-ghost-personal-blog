@@ -122,16 +122,7 @@ All content is sourced from a Ghost CMS. If you don't customize the file `.ghost
 
 ```bash
 
-    {
-        "development": {
-            "apiUrl": "https://joshuaa.dev",
-            "contentApiKey": "f7531408371d649423d38da5ba"
-        },
-        "production": {
-            "apiUrl": "https://joshuaa.dev",
-            "contentApiKey": "f7531408371d649423d38da5ba"
-        }
-    }
+
 ```
 
 ## Deploy
