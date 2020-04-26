@@ -81,7 +81,7 @@ Additional features can be integrated by installing Gatsby themes or plugins. Th
     ```bash
     gatsby develop
     ```
-    and visit your site at `joshuaa.dev`.
+    and visit your site at `http://localhost:8000`.
 
 ## Configure
 
@@ -121,7 +121,6 @@ In the configuration shown above, the most important fields to be changed are `s
 All content is sourced from a Ghost CMS. If you don't customize the file `.ghost.json` content is fetched from the demo location at `https://cms.gotsby.org`. Surely you want to source your own content. Change the keys to match your own Ghost CMS Content API keys:
 
 ```bash
-
 
 ```
 
